@@ -3,17 +3,14 @@
 - 감상을 함께하는 기록형 독서 플랫폼, 책산책 입니다
 
 
-
 ## ❓ Question
 - 영상을 동일한 속도로 재생하여 모든 참여자가 같은 순간을 공유할 수 있는 왓챠파티와 유튜브라이브에 매력을 느꼈습니다.
 - 그러다 문득, 이런 **‘동시 경험’**이 영상 매체에서만 가능한 것일까? 하는 의문이 들었죠.
 - **‘책’ 매체에서도 여러 사람이 같은 페이지를 함께 읽고 감상을 나누는 공간이 필요하겠다!**
 
 
-
 ## 😋 Difference
 - **‘읽기 전 → 읽는 중 → 읽은 후’** 라는 일련의 독서 과정을 **책산책, 하나의 플랫폼**에서 모두 경험할 수 있습니다.
-
 
 
 ## 📕 읽기 전 : 책을 고르는 과정도 함께
@@ -27,7 +24,6 @@
 2. **미리보기**
    - 다른 참여자들의 감상을 미리 확인할 수 있습니다.
    - 입장하지 않아도 책에 대한 다양한 의견을 볼 수 있어 책 선택을 도와줘요.
-
 
 
 ## 📗 읽는 중 : 기록하고 공유하며 더욱 깊이 있는 독서를 경험
@@ -46,7 +42,6 @@
    - 서울에서도, 통학길 2호선에서도, 이불 속에서도, 같은 책을 읽는 사람들과 연결되어 생각을 공유할 수 있습니다.
 
 
-
 ## 📘 읽은 후 : 책을 읽은 후에도 독서경험의 연장선으로
 
 ![4](https://github.com/user-attachments/assets/16526dd3-ff0a-49d5-80df-10bba429fde9)
@@ -61,9 +56,59 @@
    - 자신의 관심사가 어떻게 변화해왔는지 시각적으로 확인할 수 있어요.
 
 
-
 ## 🎖️ 기록을 하고 배지를 수집하는 즐거움
 ![6](https://github.com/user-attachments/assets/4635f049-9da6-4f19-aca8-fe0614fa588e)
 ![7](https://github.com/user-attachments/assets/f2657bab-cbec-4ff3-aff7-17f30f27433b)
 
 - 다양한 배지를 수집하며 독서의 즐거움을 더해보세요.
+
+
+## 팀원 소개
+
+### 💡 Project-Manager
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/bkbkk304">
+      <img width=140px src="https://avatars.githubusercontent.com/bkbkk304" alt=""/><br />
+      <sub><b>[PM] 원보경</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+### 👩🏻‍💻 Front-End
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/heeeeyong">
+      <img width=140px src="https://avatars.githubusercontent.com/heeeeyong" alt=""/><br />
+      <sub><b>[FE] 김희용</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/KingSeokJin">
+      <img width=140px src="https://avatars.githubusercontent.com/KingSeokJin" alt=""/><br />
+      <sub><b>[FE] 김석진</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/rlawngP91">
+      <img width=140px src="https://avatars.githubusercontent.com/rlawngP91" alt=""/><br />
+      <sub><b>[FE] 김주혜</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
+
+### 🧑🏻‍💻 Back-End
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center"><a href="https://github.com/hd0rable">
+      <img width=140px src="https://avatars.githubusercontent.com/hd0rable" alt=""/><br />
+      <sub><b>[BE] 강희진</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/Nico1eKim">
+      <img width=140px src="https://avatars.githubusercontent.com/Nico1eKim" alt=""/><br />
+      <sub><b>[BE] 김나은</b></sub></a><br /></td>
+      <td align="center"><a href="https://github.com/buzz0331">
+      <img width=140px src="https://avatars.githubusercontent.com/buzz0331" alt=""/><br />
+      <sub><b>[BE] 장현준</b></sub></a><br /></td>
+    </tr>
+  </tbody>
+</table>
